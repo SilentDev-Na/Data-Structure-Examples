@@ -65,7 +65,3 @@ Is there an edge between A and E: False
 
 ## 🏷️ License
 This project is licensed under the **MIT License**.
-
----
-
-🔗 GitHub Repository: [Implementing Graph Using Adjacency Matrix](https://github.com/SilentDev-Na/Data-Structure-Examples/tree/main/Implementing%20Graph%20Using%20Adjacency%20Matrix)
